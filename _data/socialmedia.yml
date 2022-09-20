@@ -1,36 +1,41 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+- name: Linkedin
+  url: https://www.linkedin.com/in/yinglong-he/
+  class: icon-linkedin
+  title: "Linkedin"
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: GitHub
+  url: http://github.com/yinglonghe
+  class: icon-github
+  title: "GitHub"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/_yinglong_he
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Instagram
+  url: http://instagram.com/_ian_he_
+  class: icon-instagram
+  title: "Instagram"
 
 # - name: Facebook
-#   url: http://www.facebook.com/
+#   url: http://facebook.com/yinglong.ian.he
 #   class: icon-facebook
-#   title: ""
+#   title: "Facebook"
+
+# - name: YouTube
+#   url: http://www.youtube.com/PhlowMedia
+#   class: icon-youtube
+#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
 #   title: ""
 
 # - name: Pinterest
