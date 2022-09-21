@@ -1,294 +1,273 @@
 ---
 layout: page
 title: ""
-meta_title: "Dr He - CV"
+meta_title: "Dr Yinglong He (Ian)"
 permalink: "/cv/"
 header: no
 ---
 
 <h1>Curriculum Vitae</h1> <br>
 
-You can also download a PDF copy of my CV <a href="https://stacykim.github.io/cv.pdf">here</a>. <br> <br>
+<!-- You can also download a PDF copy of my CV <a href="https://stacykim.github.io/cv.pdf">here</a>. <br> <br> -->
+
 
 ----
 <div class="row">
   <div class="small-2 columns"></div>
-  <div class="small-10 columns"><h3>Education</h3><br></div>
+  <div class="small-10 columns"><h3>Career</h3><br></div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2019</div>
+  <div class="small-2 columns">2022-</div>
   <div class="small-10 columns">
-    <strong>Ph.D. in Astronomy</strong> (expected) <br>
-    The Ohio State University, Columbus, OH <br>
-    <em>Thesis: Constraining Dark Matter Properties with Dwarf Galaxies and Galaxy Clusters</em> <br>
-    <em>Advisor: Annika H. G. Peter</em> <br>
+    <strong>Lecturer</strong><br>
+    University of Surrey, Guildford, UK <br>
     <br>    
   </div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2013</div>
+  <div class="small-2 columns">2021-2022</div>
   <div class="small-10 columns">
-    <strong>B.S. in Physics</strong> <br>
-    California Institute of Technology, Pasadena, CA <br>
-    <em>Thesis: X-Ray Ionization of Planet-Opened Gaps in Protostellar Disks</em> <br>
-    <em>Advisor: Neal J. Turner</em> <br>
+    <strong>Postdoctoral Research Associate (PDRA)</strong><br>
+    University of Cambridge, Cambridge, UK <br>
+    <br>    
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2020-2021</div>
+  <div class="small-10 columns">
+    <strong>Technology Expert</strong><br>
+    European Commission - Joint Research Centre (JRC), Ispra, Italy <br>
+    <br>    
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2019-2020</div>
+  <div class="small-10 columns">
+    <strong>External Expert</strong><br>
+    European Commission - Joint Research Centre (JRC), Ispra, Italy <br>
+    <br>    
+  </div>
+</div>
+
+
+----
+<div class="row">
+  <div class="small-2 columns"></div>
+  <div class="small-10 columns"><h3>Qualifications</h3><br></div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2021</div>
+  <div class="small-10 columns">
+    <strong>PhD in Mechanical Engineering</strong><br>
+    University of Birmingham (UoB), Birmingham, UK <br>
+    <br>    
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2017</div>
+  <div class="small-10 columns">
+    <strong>MSc in Energy and Power Engineering</strong> <br>
+    Huazhong University of Science and Technology (HUST), Wuhan, China <br>
+    <br>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2014</div>
+  <div class="small-10 columns">
+    <strong>BEng in Energy and Power Engineering</strong> <br>
+    Huazhong University of Science and Technology (HUST), Wuhan, China <br>
     <br>
   </div>
 </div>
 
 
-
-
+----
 <div class="row">
   <div class="small-2 columns"></div>
-  <div class="small-10 columns"><h3>Honors & Awards</h3> <br></div>
-</div>
-
-
-<div class="row">
-  <div class="small-2 columns">2018</div>
-  <div class="small-10 columns">Ann S. Tuttle Graduate Student Paper Prize (best 1st-author paper), <em>OSU Astronomy Dept</em> <br></div>
+  <div class="small-10 columns"><h3>Experience</h3> <br></div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2013</div>
-  <div class="small-10 columns">OSU Center for Cosmology and AstroParticle Physics Early Start Award <br></div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2013</div>
-  <div class="small-10 columns">University Fellowship for Graduate Studies, The Ohio State University <br></div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2013</div>
-  <div class="small-10 columns">Astronomy Graduate Recruitment Bonus, <em>OSU Astronomy Dept</em> <br></div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2009</div>
-  <div class="small-10 columns">National Merit Scholar <br> <br>
+  <div class="small-2 columns">2022-</div>
+  <div class="small-10 columns">
+    <strong>IT & Marketing Administrator [<a href="https://abcp.org.uk/people/committee/"  target="_blank">Link</a>]</strong> <br>
+    Association of British Chinese Professors (ABCP), Cambridge, UK <br>
+    <br>
   </div>
 </div>
 
-
-
-
 <div class="row">
-  <div class="small-2 columns"></div>
-  <div class="small-10 columns"><h3>Research Appointments</h3> <br></div>
+  <div class="small-2 columns">2018-</div>
+  <div class="small-10 columns">
+    <strong>Co-Founder</strong> <br>
+    DeepPower Innovation Ltd. (<a href="https://yinglonghe.github.io/files/brochures/2018_10_CICA_Toolkit_EN_CN.pdf"  target="_blank">Brochure</a>), London, UK <br>
+    <br>
+  </div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2014-</div>
-  <div class="small-10 columns">Graduate Research Associate, The Ohio State University <br></div>
+  <div class="small-2 columns">2017-2020</div>
+  <div class="small-10 columns">
+    <strong>Teaching Assistant (TA) & Co-Supervisor</strong> <br>
+    School of Engineering, University of Birmingham (UoB), Birmingham, UK <br>
+    <br>
+  </div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2013-2014</div>
-  <div class="small-10 columns">Graduate Research Fellow, The Ohio State University <br></div>
+  <div class="small-2 columns">2014-2015</div>
+  <div class="small-10 columns">
+    <strong>President of Graduate Union</strong> <br>
+    School of Energy and Power Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China <br>
+    <br>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2015</div>
+  <div class="small-10 columns">
+    <strong>Engineer Intern</strong> <br>
+    Guangdong Energy Group, Guangzhou, China <br>
+    <br>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2013</div>
+  <div class="small-10 columns">
+    <strong>Research Intern</strong> <br>
+    Shanghai Institute of Applied Physics (SINAP), Chinese Academy of Sciences (CAS), Shanghai, China <br>
+    <br>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2013</div>
+  <div class="small-10 columns">
+    <strong>Technical Intern</strong> <br>
+    Shanghai Electric Group Co., Ltd., Shanghai, China <br>
+    <br>
+  </div>
 </div>
 
 <div class="row">
   <div class="small-2 columns">2012-2013</div>
-  <div class="small-10 columns">Undergraduate Student Researcher, California Institute of Technology</div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2011-2012</div>
-  <div class="small-10 columns">Academic Part-Time Employee, Jet Propulsion Laboratory</div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2011,2012</div>
-  <div class="small-10 columns">Summer Undergraduate Research Fellow, Jet Propulsion Laboratory</div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2010</div>
-  <div class="small-10 columns">Summer Undergraduate Research Fellow, California Institute of Technology <br> <br> </div>
+  <div class="small-10 columns">
+    <strong>Rower</strong> <br>
+    Dragon Boat Team, Huazhong University of Science and Technology (HUST), Wuhan, China <br>
+    <br>
+  </div>
 </div>
 
 
-
-
+----
 <div class="row">
   <div class="small-2 columns"></div>
-  <div class="small-10 columns"><h3>Teaching and Advising</h3> <br></div>
+  <div class="small-10 columns"><h3>Selected Honors & Awards</h3> <br></div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2018-</div>
-  <div class="small-10 columns">Co-advising Carton Zeng (junior OSU physics graduate student) on simulations of tidal stripping of subhalos around lens galaxies <br></div>
+  <div class="small-2 columns">2022</div>
+  <div class="small-10 columns">Chinese Government Award for Outstanding Self-Financed Students Abroad ($6,000), China Scholarship Council (CSC). <br> <br></div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2018-</div>
-  <div class="small-10 columns">Graduate Student Mentor, OSU Polaris program <br></div>
+  <div class="small-2 columns">2022</div>
+  <div class="small-10 columns">Joint Research Centre (JRC) Annual Award for Excellence in Research. Brussels, European Commission. <br> <br></div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2020</div>
+  <div class="small-10 columns">Best Research Paper (the 1st author), <em>the 8th Transport Research Arena (TRA2020, the foremost European transport event)</em>, Helsinki, Finland. <br> <br></div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2020</div>
+  <div class="small-10 columns">Front Cover Paper (the 1st author), <em>IEEE Transactions on Transportation Electrification</em> (SCI, IF = 5.44, JCR Q1), Volume 6, Issue 1, 2020. <br> <br></div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2020</div>
+  <div class="small-10 columns">Best Simulation Application Paper (the 1st author), <em>the 99th Annual Meeting of the Transportation Research Board (TRB, the world's largest transportation research conference)</em>, Washington, DC, USA. <br> <br></div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2017-2019</div>
+  <div class="small-10 columns">School Scholarship (£19,710/yr), University of Birmingham (UoB). <br> <br></div>
 </div>
 
 <div class="row">
   <div class="small-2 columns">2016</div>
-  <div class="small-10 columns">Graduate Teaching Associate, “Methods of Observational Astronomy & Data Analysis” (ASTRON 3350), OSU <br> <br></div>
-</div>
-
-
-
-
-<div class="row">
-  <div class="small-2 columns"></div>
-  <div class="small-10 columns"><h3>Presentations</h3> <br></div>
+  <div class="small-10 columns">National Scholarship for Graduate Students (top 0.2%, ¥20,000, <em>the highest honour for Chinese students</em>), Ministry of Education, China. <br> <br></div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2018</div>
-  <div class="small-10 columns">
-    <em>There is No Missing Satellites Problem</em>, contributed talk, Substructure Lensing with Galacticus Workshop, Columbus, OH. Given 8/27/18. <br> <br>
-
-    <em>What is Dark Matter? Insights From Dwarf Galaxies and Galaxy Clusters</em>, <strong>invited talk</strong>, Open Group Seminar, University of Chicago, Chicago, IL. Given 6/29/18. <br> <br>
-
-    <em>There is No Missing Satellites Problem</em>, contributed talk, Near-Field Cosmology with the Dark Energy Survey’s DR1 and Beyond Workshop, Chicago, IL. Given 6/28/18. <br> <br>
-
-    <em>There is No Missing Satellites Problem</em>, contributed poster, Dark Matter Detection and Detectability: Paradigm Confirmation or Shift?, KITP, Santa Barbara, CA. 4/30/18–5/4/18. <br> <br>
-
-    <em>There is No Missing Satellites Problem</em>, contributed talk, Quarks to the Cosmos (2018 April American Physical Society Meeting), Columbus, OH. Given 4/15/18. <br> <br>
-
-    <em>Constraining Self-Interacting Dark Matter with Galaxy Clusters</em>, contributed flash talk, Probing the Nature of Dark Matter with the Large Synoptic Sky Telescope Workshop, Pittsburgh, PA. Given 3/5/18. <br> <br>
-  </div>
-</div>
-
-
-
-<div class="row">
-  <div class="small-2 columns">2017</div>
-  <div class="small-10 columns">
-    <em>Constraining Self-Interacting Dark Matter through Equal Mass Galaxy Cluster Mergers</em>, <strong>invited talk</strong>, Astrophysics Luncheon Seminar, Jet Propulsion Laboratory, La Cañada Flintridge, CA. Given 6/19/17.<br> <br>
-
-    <em>Constraining Self-Interacting Dark Matter through Equal Mass Mergers of Galaxy Clusters</em>, <strong>invited talk</strong>, CCAPP Summer Seminar, The Ohio State University, Columbus, OH. 8/15/17. <br> <br>
-
-    <em>Constraining Self-Interacting Dark Matter through Equal Mass Galaxy Cluster Mergers</em>, contributed talk, TeVPA 2017, Columbus, OH. Given 8/7/17. <br> <br>
-  </div>
+  <div class="small-2 columns">2015</div>
+  <div class="small-10 columns">Zhixing Scholarship (¥1,000), Huazhong University of Science and Technology (HUST). <br> <br></div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2016</div>
-  <div class="small-10 columns">
-    <em>Constraining Self-Interacting Dark Matter through Equal Mass Galaxy Cluster Mergers</em>, contributed flash talk, Ohio Supercomputer Center Statewide Users Group Conference, Columbus, OH. Given 10/6/16. <br> <br>
+  <div class="small-2 columns">2015</div>
+  <div class="small-10 columns">Guanghua Education Scholarship (¥1,000), Guanghua Education Foundation. <br> <br></div>
+</div>
 
-    <em>Constraining Self-Interacting Dark Matter through Equal Mass Galaxy Cluster Mergers</em>, contributed talk, COSMO-16, Ann Arbor, MI. Given 8/12/16. <br> <br>
+<div class="row">
+  <div class="small-2 columns">2013</div>
+  <div class="small-10 columns">The 2nd Prize, <em>the 9th “Challenge Cup” Competition of Science & Technology</em>, Hubei, China. <br> <br></div>
+</div>
 
-    <em>Constraining Self-Interacting Dark Matter: Insights From Equal Mass Mergers of Galaxy Clusters</em>, contributed poster, 227th Meeting of the American Astronomical Society, Kissimmee, FL. Given 1/7/16. <br> <br>
-  </div>
+<div class="row">
+  <div class="small-2 columns">2012</div>
+  <div class="small-10 columns">National Endeavor Scholarship (¥5,000), Ministry of Education, China. <br> <br></div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2011</div>
+  <div class="small-10 columns">National Scholarship for Undergraduate Students (top 0.2%, ¥8,000, <em>the highest honour for Chinese students</em>), Ministry of Education, China. <br> <br></div>
 </div>
 
 
-
-
+----
 <div class="row">
   <div class="small-2 columns"></div>
   <div class="small-10 columns"><h3>Service & Outreach</h3> <br></div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2014-2017</div>
+  <div class="small-2 columns">2022</div>
   <div class="small-10 columns">
-    <strong>Editor, Astrobites</strong> <br>
-    Wrote 30+ posts for <a href="https://astrobites.org/">Astrobites</a>, a blog by an international collaboration of graduate students that aims to make pioneering astronomy research accessible to undergraduates interested in pursuing astronomy. Posts summarized recent papers or topics relevant to pursuing astronomy as a career. Posts I have written can be found at <a href="https://astrobites.org/author/skim">astrobites.org/author/skim</a>. <br> <br>
+    <strong>Visual Identity Designer</strong> <br>
+    The 24th International Conference on Information and Communications Security (ICICS). [<a href="https://icics2022.cyber.kent.ac.uk/organizers.php"  target="_blank">Link</a>] <br> <br>
   </div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2015-2017</div>
+  <div class="small-2 columns">2022</div>
   <div class="small-10 columns">
-    <strong>Hiring Committee, Astrobites</strong> <br>
-    Read applications and selected new writers to join the Astrobites editorial staff. <br> <br>
+    <strong>Poster Designer & IT Assistant</strong> <br>
+    The 3rd Annual Meeting of the Association of British Chinese Professors (ABCP). Birmingham, UK. [<a href="https://abcp.org.uk/2022-annual-conference"  target="_blank">Link</a>] [<a href="http://dx.doi.org/10.13140/RG.2.2.28690.53445"  target="_blank">Poster</a>] <br> <br>
   </div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2016-2018</div>
+  <div class="small-2 columns">2022</div>
   <div class="small-10 columns">
-    <strong>STEAM Lecture Series Co-Organizer</strong> <br> 
-    Awarded ∼$25K from the <a href="http://thesteamproject.org/">STEAM Project</a> to host a 4-part discussion series on science and theology. Aided in inviting speakers, organizing seminars, and publicizing for keynote interdisciplinary discussions between scientists, philosophers, and theologians on topics spanning love, death, and the rise of AI. <br> <br>
+    <strong>Poster Designer</strong> <br>
+    The 2nd Webinar of Birmingham CASE Automotive Centre. Birmingham, UK. [<a href="http://dx.doi.org/10.13140/RG.2.2.35401.42089"  target="_blank">Poster</a>] <br> <br>
   </div>
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2013-</div>
+  <div class="small-2 columns">2022</div>
   <div class="small-10 columns">
-    <strong>Planetarium show presenter and developer, Arne Slettebak Planetarium, OSU</strong> <br>
-    Presented 40+ planetarium shows and helped develop extensive show content.  Attended the 2014 Spitz Summer Institute to learn advance show development techniques. <br> <br>
-  </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2013-2014</div>
-  <div class="small-10 columns">
-    <strong>Volunteer, OSU Astronomy Public Roof Nights and Star Parties</strong> <br> <br>
-  </div>
-</div>
-
-
-
-
-<div class="row">
-  <div class="small-2 columns"></div>
-  <div class="small-10 columns"><h3>Other Skills & Qualifications</h3> </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns"></div>
-  <div class="small-10 columns">
-    <h4>Programming</h4>
-    Python, C, Shell Script, LaTex, Mathematica, Git (see my <a href="https://github.com/stacykim">GitHub</a>) <br> <br>
-  </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns"></div>
-  <div class="small-10 columns">
-    <h4>Supercomputing</h4> (experience with the following systems) <br> <br>
-    <strong>Pleiades</strong> (245,536 cores, 7.24 Pflop/s) at the NASA Ames Research Center<br>
-    <strong>Oakley</strong> (8300 cores, 154 Tflop/s) at the Ohio Supercomputer Center <br>
-    <strong>Ruby</strong> (4800 cores, 125 Tflop/s) at the Ohio Supercomputer Center <br>
-    <strong>Zodiac, Aurora & Halo</strong> (up to 1824 cores, 29 Tflop/s) at JPL <br>
-    In-house clusters (e.g. universe, arjuna) at the Dept of Astronomy, OSU <br> <br>
-  </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns"></div>
-  <div class="small-10 columns"><h4>Observing Experience</h4><br></div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2014</div>
-  <div class="small-10 columns">
-    MDM Observatory's 1.3m McGraw-Hill telescope <br>
-    7 nights (4 as primary observer) with the CCDS optical spectrograph <br> <br>
-  </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns"></div>
-  <div class="small-10 columns"><h4>Additional Training & Certifications</h4> <br> </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">2014</div>
-  <div class="small-10 columns">
-    <strong>Spitz Institute 2014 - SciDome Presentation and Production Training</strong> <br>
-    1-week session on advanced techniques in developing content for planetariums with SciDome systems, held at Spitz, Inc., Chadds Ford, PA. <br> <br>
-  </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns"></div>
-  <div class="small-10 columns">
-    <h4>Languages</h4>
-    <em>English</em> (native speaker) <br>
-    <em>Korean</em> (intermediate) <br>
+    <strong>Co-Chair</strong> <br>
+    IEEE ITSC 2022 Special Session: Collaborative Control and Management of EV Powertrains based on Intelligent Transport Systems (CCM-EV-ITS). Macau, China. [<a href="http://www.ieee-itsc2022.org"  target="_blank">Link</a>] [<a href="http://dx.doi.org/10.13140/RG.2.2.21979.64800"  target="_blank">Poster</a>] <br> <br>
   </div>
 </div>
