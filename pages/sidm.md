@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: ""
-meta_title: "Tests for Dark Forces"
+meta_title: "Dr Yinglong He (Ian)"
 permalink: "/research/sidm/"
 header: no
 ---

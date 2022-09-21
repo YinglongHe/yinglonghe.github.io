@@ -1,3 +1,8 @@
+- name: Homepage
+  url: https://www.surrey.ac.uk/people/yinglong-he
+  class: icon-home
+  title: "Homepage"
+
 - name: Linkedin
   url: https://www.linkedin.com/in/yinglong-he/
   class: icon-linkedin
@@ -13,10 +18,10 @@
   class: icon-twitter
   title: "Twitter"
 
-- name: Instagram
-  url: http://instagram.com/_ian_he_
-  class: icon-instagram
-  title: "Instagram"
+# - name: Instagram
+#   url: http://instagram.com/_ian_he_
+#   class: icon-instagram
+#   title: "Instagram"
 
 # - name: Facebook
 #   url: http://facebook.com/yinglong.ian.he

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: ""
-meta_title: "Dr He - Research"
+meta_title: "Dr Yinglong He (Ian)"
 permalink: "/research/"
 header: no
 widget1:

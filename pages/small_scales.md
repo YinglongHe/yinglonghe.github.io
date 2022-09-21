@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: ""
-meta_title: "Problems at Small Scales"
+meta_title: "Dr Yinglong He (Ian)"
 permalink: "/research/small_scales/"
 header: no
 ---
