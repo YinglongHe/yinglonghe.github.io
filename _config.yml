@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Dr Yinglong He (Ian)"
+title: "Yinglong He - Surry"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Flexible Theme for Jekyll'
@@ -145,7 +145,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+google_site_verification        : 'AFn1-wZvrNZdA7bUU8CAUMw_ea9gvcOhNQRkPPLyzxE'
 bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification      : ''
 # alexa_verify_id               : ''
@@ -231,7 +231,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+google_analytics_tracking_id: G-LK6X44S66L
 
 
 

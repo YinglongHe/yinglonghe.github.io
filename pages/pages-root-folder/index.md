@@ -26,7 +26,6 @@ permalink: /index.html
 homepage: true
 ---
 
-<h2>Hi! I’m a Lecturer in Mechanical Engineering at the University of Surrey, and I am looking for highly motivated students.</h2> <br>
+<h2>Biography</h2> <br>
 
-<!-- I am working with <a href="https://u.osu.edu/apeter/">Annika Peter</a> to narrow down the zoo of dark matter models by sharpening tests of two key dark matter properties: the small scales at which deviations occur from the canonical cold dark matter paradigm appear, and the existence of dark sector physics.  For more about my work, see the links above. -->
-
+Dr Yinglong He (Ian) is a Lecturer in Advanced Resilient Transport (ART) Systems within the School of Mechanical Engineering Sciences. Before joining the University of Surrey in 2022, Dr He worked as Postdoctoral Research Associate (PDRA) at the University of Cambridge. Between 2019 and 2021 he held an expert position in the Directorate for Energy, Transport, and Climate at the European Commission - Joint Research Centre (JRC).

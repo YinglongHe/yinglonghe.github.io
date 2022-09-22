@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-meta_title: "Dr Yinglong He (Ian)"
+meta_title: "Dr He - Publications"
 permalink: "/publications/"
 header: no
 ---

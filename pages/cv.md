@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-meta_title: "Dr Yinglong He (Ian)"
+meta_title: "Dr He - CV"
 permalink: "/cv/"
 header: no
 ---

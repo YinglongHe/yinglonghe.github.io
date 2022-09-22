@@ -1,21 +1,15 @@
 ---
-layout: page
+layout: page-fullwidth
 title: ""
-meta_title: "Dr Yinglong He (Ian)"
+meta_title: "Dr He - ART Lab"
 permalink: "/artlab/"
-# header:
-#     image: surrey_art_lab_480x250.png
-#     background-color:  "#FFFFFF"
-#     caption: This is a caption for the header image with link
-#     caption_url: https://unsplash.com/
 header: no
-image:
-    title: surrey_art_lab_480x250.png
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
 ---
 
+<img src="{{ site.urlimg }}surrey_art_lab_600x190.png" alt="" width="300">
 
-<h1>Autonomous & Resilient Transport (ART) Lab</h1> <br>
+<h4>University of Surrey</h4>
+
+<h1>Advanced Resilient Transport (ART) Lab</h1> <br>
 
 ----

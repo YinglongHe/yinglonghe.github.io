@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-meta_title: "Dr Yinglong He (Ian)"
+meta_title: "Dr He - Contact"
 #subheadline: "Wufoo-powered contact forms"
 #teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
