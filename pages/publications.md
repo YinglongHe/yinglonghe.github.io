@@ -9,14 +9,14 @@ header: no
 
 <h1>Publications</h1> <br>
 
-You can also access my publications through Google Scholar <a href="https://scholar.google.com/citations?user=wJ6b7kwAAAAJ&hl" target="_blank">here</a>. <br> <br>
+You can also access my publications through <a href="https://scholar.google.com/citations?user=wJ6b7kwAAAAJ&hl" target="_blank">Google Scholar</a>, <a href="https://orcid.org/0000-0002-6666-8471" target="_blank">ORCID</a>, or <a href="https://www.scopus.com/authid/detail.uri?authorId=57210183997" target="_blank">Scopus</a>. <br> <br>
 
 <!-- <strong>8 total, 3 first author and 5 with contributed observations; 110+ citations.</strong><br> -->
 
 ----
 <h3>Journal Articles</h3><br>
 
-20220701. R. Dona, K. Mattas, **Y. He**, G. Albano, and B. Ciuffo. *Multianticipation for string stable adaptive cruise control and increased motorway capacity without vehicle to vehicle communication*. Transportation Research Part C: Emerging Technologies. 2022; 140:103687. (SCI, IF = 8.09, JCR Q1) [<a href="https://doi.org/10.1016/j.trc.2022.103687"  target="_blank">DOI</a>]
+20220701. R. Dona, K. Mattas, **Y. He**, G. Albano, and B. Ciuffo. *Multianticipation for string stable adaptive cruise control and increased motorway capacity without vehicle-to-vehicle communication*. Transportation Research Part C: Emerging Technologies. 2022; 140:103687. (SCI, IF = 8.09, JCR Q1) [<a href="https://doi.org/10.1016/j.trc.2022.103687"  target="_blank">DOI</a>]
 
 20220601. **Y. He**, M. Montanino, K. Mattas, V. Punzo, and B. Ciuffo. *Physics-augmented models to simulate commercial adaptive cruise control (ACC) systems*. Transportation Research Part C: Emerging Technologies. 2022; 139:103692. (SCI, IF = 8.09, JCR Q1) [<a href="https://doi.org/10.1016/j.trc.2022.103692"  target="_blank">DOI</a>]
 
