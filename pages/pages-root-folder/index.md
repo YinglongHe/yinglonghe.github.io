@@ -28,4 +28,4 @@ homepage: true
 
 <h2>Biography</h2> <br>
 
-Dr Yinglong He (Ian) is a Lecturer in Advanced Resilient Transport (ART) Systems within the School of Mechanical Engineering Sciences. Before joining the University of Surrey in 2022, Dr He worked as Postdoctoral Research Associate (PDRA) at the University of Cambridge. Between 2019 and 2021 he held an expert position in the Directorate for Energy, Transport, and Climate at the European Commission - Joint Research Centre (JRC).
+Dr Yinglong He (Ian) is a Lecturer in Advanced Resilient Transport (ART) Systems within the School of Mechanical Engineering Sciences. Before joining the University of Surrey in 2022, Dr He worked as Postdoctoral Research Associate (PDRA) at the University of Cambridge. Between 2019 and 2021 he held an expert position in the Directorate for Energy, Transport, and Climate at the Joint Research Centre (JRC) of the European Commission.
