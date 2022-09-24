@@ -10,8 +10,9 @@ header: no
 
 <h4>University of Surrey</h4>
 
-<h1>Advanced Resilient Transport (ART) Lab</h1> <br>
+<h1>Advanced Resilient Transport (ART) Lab</h1>
 
 ----
 
-To be established.
+Welcome to the Advanced Resilient Transport (ART) Lab!
+
