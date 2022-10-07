@@ -6,7 +6,7 @@ permalink: "/research/"
 header: no
 ---
 
-<img src="{{ site.urlimg }}surrey_art_600x190.jpg" alt="" width="300">
+<img src="{{ site.urlimg }}logo/surrey_art_600x190.jpg" alt="" width="300">
 
 <h4>University of Surrey</h4>
 
@@ -167,7 +167,7 @@ We have collaborated with many public, industrial, and academic groups across th
 
     <div class="medium-4 columns">
     <figure>
-        <img src="http://stopproject.eu/site/wp-content/uploads/2019/09/1523872538_logo_fedii.jpg" alt="">
+        <img src="{{ site.urlimg }}logo/uni_fedii.jpg" alt="">
         <figcaption style="text-align: center"><a href="http://www.international.unina.it/" target="_blank">University of Naples Federico II</a></figcaption>
     </figure>
     </div><!-- /.medium-4.columns -->
@@ -190,7 +190,7 @@ We have collaborated with many public, industrial, and academic groups across th
 
     <div class="medium-4 columns">
     <figure>
-        <img src="https://aasalt.co.uk/wp-content/uploads/2016/08/Birmingham_logo.svg_.png" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Birmingham_logo.svg/220px-Birmingham_logo.svg.png" alt="">
         <figcaption style="text-align: center"><a href="https://www.birmingham.ac.uk/" target="_blank">University of Birmingham</a></figcaption>
     </figure>
     </div><!-- /.medium-4.columns -->
