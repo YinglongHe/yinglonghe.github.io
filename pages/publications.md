@@ -9,7 +9,7 @@ header: no
 
 <h1>Publications</h1> <br>
 
-You can also access my publications through <a href="https://scholar.google.com/citations?user=wJ6b7kwAAAAJ&hl" target="_blank">Google Scholar</a>, <a href="https://orcid.org/0000-0002-6666-8471" target="_blank">ORCID</a>, or <a href="https://www.scopus.com/authid/detail.uri?authorId=57210183997" target="_blank">Scopus</a>. <br> <br>
+You can also access my publications through <a href="https://scholar.google.com/citations?user=wJ6b7kwAAAAJ&hl" target="_blank">Google Scholar</a>, <a href="https://orcid.org/0000-0002-6666-8471" target="_blank">ORCID</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=57210183997" target="_blank">Scopus</a>, <a href="http://www.webofscience.com/wos/author/record/ADG-0571-2022" target="_blank">Web of Science</a>, or <a href="https://www.researchgate.net/profile/Yinglong-He-2" target="_blank">ResearchGate</a>. <br> <br>
 
 <!-- <strong>8 total, 3 first author and 5 with contributed observations; 110+ citations.</strong><br> -->
 
