@@ -32,6 +32,7 @@ Dr Yinglong He (Ian) is a Lecturer in Advanced Resilient Transport (ART) Systems
 
 <h2>Updates</h2> <br>
 
+- 10/2022: A new paper on Traffic Modelling has been accepted for presentation at the <a href="https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx" target="_blank">Transportation Research Board (TRB)</a> 102nd Annual Meeting.
 - 09/2022: I started a new position as a Lecturer in Mechanical Engineering Sciences at the University of Surrey!
 - 07/2022: I received the 2021 Chinese Government Award for Outstanding Self-Financed Students Abroad. 
 - 06/2022: I received the Joint Research Centre (JRC) Annual Award for Excellence in Research from the European Commission. 

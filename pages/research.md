@@ -33,6 +33,10 @@ header: no
 *How to Operate the ART Systems?*
 
 ----
+- Traffic modelling
+- Multi-agent system
+- Vehicle dynamics
+- Learning- & optimization-based control
 
 Selected publications:
 - **Y. He**, M. Montanino, K. Mattas, V. Punzo, and B. Ciuffo. *Physics-augmented models to simulate commercial adaptive cruise control (ACC) systems*. Transportation Research Part C: Emerging Technologies. 2022; 139:103692. (SCI, IF = 8.09, JCR Q1) [<a href="https://doi.org/10.1016/j.trc.2022.103692" target="_blank">DOI</a>]
@@ -50,6 +54,9 @@ Selected publications:
 *How to Fuel the ART Systems?*
 
 ----
+- Energy/battery management of electrified powertrain
+- Renewable fuels
+- Multi-objective optimal design
 
 Selected publications:
 - **Y. He**, M. Makridis, K. Mattas, G. Fontaras, B. Ciuffo, and H. Xu. *Introducing electrified vehicle dynamics in traffic simulation*. Transportation Research Record. 2020; 2674(9):776-791. (SCI, IF = 1.56, JCR Q3) [<a href="https://doi.org/10.1177/0361198120931842" target="_blank">DOI</a>]
@@ -67,6 +74,9 @@ Selected publications:
 *How to Monitor the ART Systems?*
 
 ----
+- Vehicle trajectories & traffic flow
+- Vehicle diagnostics 
+- Satellite & drone thermal infrared (TIR) imaging
 
 Selected publications:
 - B. Ciuffo, K. Mattas, M. Makridis, G. Albano, A. Anesiadou, **Y. He**, S. Josvai, D. Komnos, M. Pataki, S. Vass, and Z. Szalay. *Requiem on the positive effects of commercial adaptive cruise control on motorway traffic and recommendations for future automated driving systems*. Transportation Research Part C: Emerging Technologies. 2021; 130:103305. (SCI, IF = 8.09, JCR Q1) [<a href="https://doi.org/10.1016/j.trc.2021.103305" target="_blank">DOI</a>]
