@@ -2,7 +2,7 @@
 layout: page-fullwidth
 # layout: frontpage
 header: 
-    image_fullwidth: bio_ian_he.jpg
+    image_fullwidth: pic/index_header.jpg
 #    pattern: graphy2X.png
 #
 # Use the call for action to show a button on the frontpage

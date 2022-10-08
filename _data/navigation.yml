@@ -17,6 +17,13 @@
   url: "/research/"
   side: right
 
+- title: "Teaching"
+  url: "/teaching/"
+  side: right
+  dropdown:
+  - title: "ENG2090"
+    url: "/teaching/ENG2090/"
+
 - title: "CV"
   url: "/cv/"
   side: right
@@ -82,7 +89,7 @@
 #   url: "/documentation/"
 #   side: left
 #   dropdown:
-#   - title: "Changelog"
+#   - title: "Changelog"R
 #     url: "/changelog/"
 #   - title: "Roadmap"
 #     url: "/roadmap/"
