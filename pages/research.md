@@ -33,21 +33,10 @@ header: no
 *How to Operate the ART Systems?*
 
 ----
-- Traffic modelling
 - Multi-agent system
 - Vehicle dynamics
+- Traffic modelling
 - Learning- & optimization-based control
-
-Selected publications:
-- **Y. He**, M. Montanino, K. Mattas, V. Punzo, and B. Ciuffo. *Physics-augmented models to simulate commercial adaptive cruise control (ACC) systems*. Transportation Research Part C: Emerging Technologies. 2022; 139:103692. (SCI, IF = 8.09, JCR Q1) [<a href="https://doi.org/10.1016/j.trc.2022.103692" target="_blank">DOI</a>]
-
-- R. Dona, K. Mattas, **Y. He**, G. Albano, and B. Ciuffo. *Multianticipation for string stable adaptive cruise control and increased motorway capacity without vehicle-to-vehicle communication*. Transportation Research Part C: Emerging Technologies. 2022; 140:103687. (SCI, IF = 8.09, JCR Q1) [<a href="https://doi.org/10.1016/j.trc.2022.103687" target="_blank">DOI</a>]
-
-- **Y. He**, K. Mattas, R. Dona, G. Albano, and B. Ciuffo. *Introducing the effects of road geometry into microscopic traffic models for automated vehicles*. IEEE Transactions on Intelligent Transportation Systems. 2021; 23(8):13604-13613. (SCI, IF = 6.49, JCR Q1) [<a href="https://doi.org/10.1109/TITS.2021.3126049" target="_blank">DOI</a>]
-
-- **Y. He**, Q. Zhou, M. Makridis, K. Mattas, J. Li, H. Williams, and H. Xu. *Multiobjective co-optimization of cooperative adaptive cruise control and energy management strategy for PHEVs*. IEEE Transactions on Transportation Electrification. 2020; 6(1):346-355. (SCI, IF = 5.44, JCR Q1) [<a href="https://doi.org/10.1109/TTE.2020.2974588" target="_blank">DOI</a>]
-
-- **Y. He**, B. Ciuffo, Q. Zhou, M. Makridis, K. Mattas, J. Li, Z. Li, F. Yan, and H. Xu. *Adaptive cruise control strategies implemented on experimental vehicles: A review*. IFAC-PapersOnLine. 2019; 52(5):21-27. [<a href="https://doi.org/10.1016/j.ifacol.2019.09.004" target="_blank">DOI</a>]
 
 #### **2. Transport Electrification and Decarbonization (TED)**<br>
 
@@ -58,17 +47,6 @@ Selected publications:
 - Renewable fuels
 - Multi-objective optimal design
 
-Selected publications:
-- **Y. He**, M. Makridis, K. Mattas, G. Fontaras, B. Ciuffo, and H. Xu. *Introducing electrified vehicle dynamics in traffic simulation*. Transportation Research Record. 2020; 2674(9):776-791. (SCI, IF = 1.56, JCR Q3) [<a href="https://doi.org/10.1177/0361198120931842" target="_blank">DOI</a>]
-
-- **Y. He**, C. Wang, Q. Zhou, J. Li, M. Makridis, H. Williams, G. Lu, and H. Xu. *Multiobjective component sizing of a hybrid ethanol-electric vehicle propulsion system*. Applied Energy. 2020; 266:114843. (SCI, IF = 9.75, JCR Q1) [<a href="https://doi.org/10.1016/j.apenergy.2020.114843" target="_blank">DOI</a>]
-
-- Y. Wang, D. Qiu, **Y. He**, Q. Zhou, G. Strbac. *Multi-agent reinforcement learning for electric vehicle decarbonized routing and scheduling*. [Under Review]
-
-- **Y. He**, X. Gao, Y. Qiao, and M. Xu. *Occurrence forms of key ash-forming elements in defatted microalgal biomass*. Fuel. 2017; 200:182-185. (SCI, IF = 6.61, JCR Q1) [<a href="https://doi.org/10.1016/j.fuel.2017.03.044" target="_blank">DOI</a>]
-
-20161201. **Y. He**, D. Yu, T. Lei, W. Lv, and M. Xu. *Chemical looping CO<sub>2</sub>/CH<sub>4</sub> reforming using Fe-based oxygen carrier for syngas production*. CIESC Journal/Huagong Xuebao. 2016; 67(12):5222-5228. [<a href="https://hgxb.cip.com.cn/EN/10.11949/j.issn.0438-1157.20160698" target="_blank">DOI</a>]
-
 #### **3. Geo-Spatiotemporal Sensing and Data Mining (GSDM)**
 
 *How to Monitor the ART Systems?*
@@ -77,17 +55,7 @@ Selected publications:
 - Vehicle trajectories & traffic flow
 - Vehicle diagnostics 
 - Satellite & drone thermal infrared (TIR) imaging
-
-Selected publications:
-- B. Ciuffo, K. Mattas, M. Makridis, G. Albano, A. Anesiadou, **Y. He**, S. Josvai, D. Komnos, M. Pataki, S. Vass, and Z. Szalay. *Requiem on the positive effects of commercial adaptive cruise control on motorway traffic and recommendations for future automated driving systems*. Transportation Research Part C: Emerging Technologies. 2021; 130:103305. (SCI, IF = 8.09, JCR Q1) [<a href="https://doi.org/10.1016/j.trc.2021.103305" target="_blank">DOI</a>]
-
-- **Y. He**, M. Makridis, G. Fontaras, K. Mattas, H. Xu, and B. Ciuffo. *The energy impact of adaptive cruise control in real-world highway multiple-car-following scenarios*. European Transport Research Review. 2020; 12(1):1-11. (SCI, IF = 2.42, JCR Q3) [<a href="https://doi.org/10.1186/s12544-020-00406-w" target="_blank">DOI</a>]
-
-- **Y. He**, J. Pan, R. Debnath, R. Bardhan, L. Cullen, M. G. Jenkins, and I. Parry. *Energy mapping of existing building stock in Cambridge – Analysis of data from energy performance certificates (EPCs) and thermal infrared (TIR) images*. [To Be Submitted]
-
-
-## Research Collaborations
-We have collaborated with many public, industrial, and academic groups across the world. Below are some of examples of current and past collaborators that we have worked with:
+- Computer vision
 
 #### **1. Public Collaborations**
 ----
