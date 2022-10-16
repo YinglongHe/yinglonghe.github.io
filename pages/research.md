@@ -54,8 +54,7 @@ header: no
 ----
 - Vehicle trajectories & traffic flow
 - Vehicle diagnostics 
-- Satellite & drone thermal infrared (TIR) imaging
-- Computer vision
+- Satellite/drone thermal infrared (TIR) imaging & computer vision
 
 #### **1. Public Collaborations**
 ----
