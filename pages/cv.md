@@ -18,7 +18,7 @@ header: no
   <div class="small-2 columns">2022-</div>
   <div class="small-10 columns">
     <strong>Lecturer</strong><br>
-    <a href="https://www.surrey.ac.uk/" target="_blank">University of Surrey</a>, Guildford, UK <br>
+    <a href="https://www.surrey.ac.uk/school-mechanical-engineering-sciences" target="_blank">School of Mechanical Engineering Sciences</a>, <a href="https://www.surrey.ac.uk/" target="_blank">University of Surrey</a>, Guildford, UK <br>
     <br>
   </div>
 </div>
@@ -27,7 +27,7 @@ header: no
   <div class="small-2 columns">2021-2022</div>
   <div class="small-10 columns">
     <strong>Postdoctoral Research Associate (PDRA)</strong><br>
-    <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>, Cambridge, UK <br>
+    <a href="https://www.ast.cam.ac.uk/" target="_blank">Institute of Astronomy (IoA)</a> & <a href="https://www.arct.cam.ac.uk/" target="_blank">Department of Architecture</a>, <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>, Cambridge, UK <br>
     <br>
   </div>
 </div>
@@ -36,7 +36,7 @@ header: no
   <div class="small-2 columns">2020-2021</div>
   <div class="small-10 columns">
     <strong>Technology Expert</strong><br>
-    <a href="https://ec.europa.eu/info/departments/joint-research-centre_en" target="_blank">European Commission - Joint Research Centre (JRC)</a>, Ispra, Italy <br>
+    Directorate for Energy, Transport, and Climate, <a href="https://ec.europa.eu/info/departments/joint-research-centre_en" target="_blank">European Commission - Joint Research Centre (JRC)</a>, Ispra, Italy <br>
     <br>
   </div>
 </div>
@@ -45,7 +45,7 @@ header: no
   <div class="small-2 columns">2019-2020</div>
   <div class="small-10 columns">
     <strong>External Expert</strong><br>
-    <a href="https://ec.europa.eu/info/departments/joint-research-centre_en" target="_blank">European Commission - Joint Research Centre (JRC)</a>, Ispra, Italy <br>
+    Directorate for Energy, Transport, and Climate, <a href="https://ec.europa.eu/info/departments/joint-research-centre_en" target="_blank">European Commission - Joint Research Centre (JRC)</a>, Ispra, Italy <br>
     <br>
   </div>
 </div>
