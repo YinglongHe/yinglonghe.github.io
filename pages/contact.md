@@ -15,7 +15,7 @@ header: no
 +44 (0)1483 688784
 
 <h4>Email</h4>
-yinglong.he [at] surrey.ac.uk
+ian.he [at] surrey.ac.uk
 
 <h4>Address</h4>
 14b AC 03, Lewis Carroll Building, <br>
