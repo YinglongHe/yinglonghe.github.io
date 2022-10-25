@@ -56,6 +56,8 @@ header: no
 - Vehicle diagnostics 
 - Satellite/drone thermal infrared (TIR) imaging & computer vision
 
+## Research Collaborations
+
 #### **1. Public Collaborations**
 ----
 <div class="row t30">
