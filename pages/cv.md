@@ -92,7 +92,7 @@ header: no
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2022-</div>
+  <div class="small-2 columns">2022</div>
   <div class="small-10 columns">
     <strong>IT & Marketing Administrator [<a href="https://abcp.org.uk/people/committee/" target="_blank">Link</a>]</strong> <br>
     <a href="https://abcp.org.uk/" target="_blank">Association of British Chinese Professors (ABCP)</a>, Cambridge, UK <br>
@@ -101,7 +101,7 @@ header: no
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2018-</div>
+  <div class="small-2 columns">2018-2021</div>
   <div class="small-10 columns">
     <strong>Co-Founder</strong> <br>
     DeepPower Innovation Ltd. (<a href="https://yinglonghe.github.io/files/brochures/2018_10_CICA_Toolkit_EN_CN.pdf" target="_blank">Brochure</a>), London, UK <br>
