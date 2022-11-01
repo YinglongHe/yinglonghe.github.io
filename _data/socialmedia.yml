@@ -8,10 +8,10 @@
   class: icon-linkedin
   title: "Linkedin"
 
-- name: GitHub
-  url: http://github.com/yinglonghe
-  class: icon-github
-  title: "GitHub"
+# - name: GitHub
+#   url: http://github.com/yinglonghe
+#   class: icon-github
+#   title: "GitHub"
 
 - name: Twitter
   url: http://twitter.com/_ian_he
