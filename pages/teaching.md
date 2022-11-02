@@ -14,6 +14,12 @@ permalink: "/teaching/"
 
 <ul>
     {% for post in site.tags.module_ug_current %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" target="_blank">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+----
+
+<h3>Links</h3> <br>
+
+- <a href="https://surreylearn.surrey.ac.uk/d2l/home" target="_blank">SurreyLearn</a> (Virtual Learning Environment)
