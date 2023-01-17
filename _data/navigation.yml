@@ -21,6 +21,8 @@
   url: "/teaching/"
   side: right
   dropdown:
+  - title: "ENG2124"
+    url: "/teaching/ENG2124/"
   - title: "ENG2090"
     url: "/teaching/ENG2090/"
 

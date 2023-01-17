@@ -65,4 +65,7 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
  [9]: #
  [10]: #
 
- CMD: bundle exec jekyll serve
+https://jekyllrb.com/tutorials/using-jekyll-with-bundler/
+
+Change to the current working directory
+CMD: bundle exec jekyll serve
