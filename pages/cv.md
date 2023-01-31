@@ -92,7 +92,7 @@ header: no
 </div>
 
 <div class="row">
-  <div class="small-2 columns">2022</div>
+  <div class="small-2 columns">2022-2023</div>
   <div class="small-10 columns">
     <strong>IT & Marketing Administrator [<a href="https://abcp.org.uk/people/committee/" target="_blank">Link</a>]</strong> <br>
     <a href="https://abcp.org.uk/" target="_blank">Association of British Chinese Professors (ABCP)</a>, Cambridge, UK <br>

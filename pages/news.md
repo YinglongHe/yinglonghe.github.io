@@ -8,11 +8,16 @@ header: no
 
 <h1>News</h1>
 
+<h2>2023</h2>
+
+----
+
+- 01/2023: I attened the <a href="https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx" target="_blank">Transportation Research Board (TRB)</a> 102nd Annual Meeting held in Washington, D.C., and presented our work on vehicle dynamics and traffic simulation at the <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/19429" target="_blank">Lectern Session Recent Advances in Traffic Simulation</a>.
+
 <h2>2022</h2>
 
 ----
 
-- 10/2022: A new paper on Traffic Modelling has been accepted for presentation at the <a href="https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx" target="_blank">Transportation Research Board (TRB)</a> 102nd Annual Meeting.
 - 09/2022: I started a new position as a Lecturer in Mechanical Engineering Sciences at the University of Surrey!
 - 07/2022: I received the 2021 Chinese Government Award for Outstanding Self-Financed Students Abroad. 
 - 06/2022: I received the Joint Research Centre (JRC) Annual Award for Excellence in Research from the European Commission. 
