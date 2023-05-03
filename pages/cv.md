@@ -51,7 +51,7 @@ header: no
 </div>
 
 
-<!-- ----
+----
 <div class="row">
   <div class="small-2 columns"></div>
   <div class="small-10 columns"><h3>Qualifications</h3><br></div>
@@ -82,7 +82,7 @@ header: no
     <a href="http://english.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology (HUST)</a>, Wuhan, China <br>
     <br>
   </div>
-</div> -->
+</div>
 
 
 ----
