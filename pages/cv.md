@@ -17,8 +17,17 @@ header: no
 <div class="row">
   <div class="small-2 columns">2022-</div>
   <div class="small-10 columns">
-    <strong>Lecturer (Assistant Professor)</strong><br>
+    <strong>Lecturer</strong><br>
     <a href="https://www.surrey.ac.uk/school-mechanical-engineering-sciences" target="_blank">School of Mechanical Engineering Sciences</a>, <a href="https://www.surrey.ac.uk/" target="_blank">University of Surrey</a>, Guildford, UK <br>
+    <br>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-2 columns">2023-</div>
+  <div class="small-10 columns">
+    <strong>Honorary Assistant Professor</strong><br>
+    <a href="https://www.birmingham.ac.uk/schools/engineering/index.aspx" target="_blank">School of Engineering</a>, <a href="https://www.birmingham.ac.uk/university/colleges/eps/index.aspx" target="_blank">College of Engineering and Physical Sciences</a>, <a href="https://www.surrey.ac.uk/" target="_blank">University of Birmingham</a>, Birmingham, UK <br>
     <br>
   </div>
 </div>

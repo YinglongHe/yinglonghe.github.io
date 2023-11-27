@@ -28,8 +28,9 @@ homepage: true
 
 <h2>Biography</h2> <br>
 
-Dr Yinglong (Ian) He is a Lecturer (Assistant Professor) in Advanced Resilient Transport (ART) Systems at <a href="https://www.surrey.ac.uk/" target="_blank">the University of Surrey</a>. He is affiliated with <a href="https://www.surrey.ac.uk/school-mechanical-engineering-sciences" target="_blank">the School of Mechanical Engineering Sciences</a> and <a href="https://www.surrey.ac.uk/centre-automotive-engineering" target="_blank">the Centre for Automotive Engineering</a>. Before joining Surrey in 2022, Dr He worked as Postdoctoral Research Associate (PDRA) at <a href="https://www.cam.ac.uk/" target="_blank">the University of Cambridge</a>. Between 2019 and 2021 he held an expert position in the Directorate for Energy, Transport, and Climate at <a href="https://ec.europa.eu/info/departments/joint-research-centre_en" target="_blank">the Joint Research Centre (JRC) of the European Commission</a>.
+Dr Yinglong He is a Lecturer in Automated Resilient Transport (ART) Systems at <a href="https://www.surrey.ac.uk/school-mechanical-engineering-sciences" target="_blank">the School of Mechanical Engineering Sciences (MES)</a>, <a href="https://www.surrey.ac.uk/" target="_blank">University of Surrey</a>, UK. Additionally, he holds the title of Honorary Assistant Professor at <a href="https://www.birmingham.ac.uk/schools/engineering/index.aspx" target="_blank">the School of Engineering</a>, <a href="https://www.birmingham.ac.uk/index.aspx" target="_blank">University of Birmingham</a>. In 2022, Dr He worked as a Postdoctoral Research Associate (PDRA) at <a href="https://www.ast.cam.ac.uk/" target="_blank">the Institute of Astronomy (IoA)</a> and <a href="https://www.arct.cam.ac.uk/" target="_blank">the Department of Architecture</a>, <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>. Between 2019 and 2021 he held an expert position in the Directorate for Energy, Transport, and Climate at <a href="https://ec.europa.eu/info/departments/joint-research-centre_en" target="_blank">the Joint Research Centre (JRC) of the European Commission</a>. Please visit his personal website for more details.
 
+<!---
 <h2>Updates</h2> <br>
 
 - 01/2023: I attened the <a href="https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx" target="_blank">Transportation Research Board (TRB)</a> 102nd Annual Meeting held in Washington, D.C., and presented our work on vehicle dynamics and traffic simulation at the <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/19429" target="_blank">Lectern Session Recent Advances in Traffic Simulation</a>.
@@ -49,3 +50,4 @@ Dr Yinglong (Ian) He is a Lecturer (Assistant Professor) in Advanced Resilient T
 <a href="{{ site.url }}{{ site.baseurl }}/news">
 <button type="button">More news</button>
 </a>
+-->

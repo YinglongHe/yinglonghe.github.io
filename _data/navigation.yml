@@ -34,8 +34,12 @@
   url: "/publications/"
   side: right
 
-- title: "PhD Scholarships"
-  url: "/phd-scholarships/"
+# - title: "PhD Scholarships"
+#   url: "/phd-scholarships/"
+#   side: right
+
+- title: "News"
+  url: "/news/"
   side: right
 
 - title: "Contact"

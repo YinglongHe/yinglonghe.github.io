@@ -10,7 +10,7 @@ header: no
 
 <h4>University of Surrey</h4>
 
-<h1>Advanced Resilient Transport (ART) Systems</h1>
+<h1>Automated Resilient Transport (ART) Systems</h1>
 
 ----
 
